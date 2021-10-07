@@ -1,0 +1,42 @@
+body{ background-color:rgb(150,80,120);
+  color:pink;
+  text-align: center;
+ font-size: 20px
+}
+
+h1{
+   color:rgb(0,170,150);
+   text-align: center;
+
+}
+
+
+p{
+  color:$purple-300;
+  text-align: center;
+  font-family: cursive;
+  font-size:20px:
+
+}
+
+
+p2{
+  color:$purple-300;
+  text-align: center;
+  font-family: cursive;
+  font-size:20px:
+
+}
+
+p{
+  color:white;
+  text-align: center;
+  font-family: inherit;
+  font-size:20px:
+
+}
+
+
+href{
+  color: white
+}

@@ -1,0 +1,30 @@
+body{
+  background-color:rgb(0,170,150);
+  color:pink;
+  text-align: center;
+ font-size: 20px
+}
+
+h1{
+   color:rgb(90,160,150);
+   text-align: center;
+   background-color:rgb(130,70,120);
+   font-size: 20px
+}
+
+
+p{
+  color:white;
+  text-align: center;
+  font-family: inherit;
+  font-size:20px:
+
+}
+
+p2{
+  color:white;
+  text-align: center;
+  font-family: monospace;
+  font-size:35px:
+
+}
